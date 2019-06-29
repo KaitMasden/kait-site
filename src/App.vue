@@ -1,8 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <NavBar />
     </div>
     <router-view />
   </div>
@@ -27,3 +26,14 @@
   }
 }
 </style>
+
+<script>
+import NavBar from './components/molecules/NavBar'; 
+
+export default {
+  name: 'app',
+  components: {
+    'NavBar': NavBar
+  }
+}
+</script>
