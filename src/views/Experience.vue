@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an experience page</h1>
+    <h2>This is an experience page</h2>
   </div>
 </template>
 
