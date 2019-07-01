@@ -10,10 +10,10 @@
 </template>
 
 <style lang="scss" scoped>
-  @import "styles/scss/variables";
+  @import "../../styles/scss/variables";
   nav {
     padding: 30px;
-    background-color: #373737;
+    background-color: $darkColor;
     color: #C0B283;
     word-spacing: 30px;
     a {
@@ -24,7 +24,7 @@
       &.router-link-exact-active {
         padding:10px;
         background-color:#C0B283;
-        color: #373737;
+        color: $darkColor;
       }
     }
   }
