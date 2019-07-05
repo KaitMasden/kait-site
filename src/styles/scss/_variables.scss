@@ -1,1 +1,3 @@
-$darkColor: #373737; 
+$primaryColor: #aba; 
+$darkColor: darken($color: $primaryColor, $amount: 25); 
+$lightColor: lighten($color: $primaryColor, $amount: 15) ; 

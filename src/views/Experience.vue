@@ -9,6 +9,8 @@
 </style>
 
 <script>
+import ExperienceCards from "../components/molecules/ExperienceCard";
+
 export default {
   
 }
