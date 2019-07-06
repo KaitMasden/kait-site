@@ -18,6 +18,7 @@
 <style lang="scss" scoped>
 section {
   width: 100%;
+  margin: 10rem 0; 
   display: flex;
   align-items: center;
   flex-direction: column;

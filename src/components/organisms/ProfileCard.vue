@@ -3,8 +3,8 @@
     <div class="content-container">
       <img src="/images/archie.jpg" />
       <div>
-        <h1>Archie Masden</h1>
-        <p>Where is my slave? I'm getting hungry leave hair on owner's clothes and man running from cops stops to pet cats, goes to jail attempt to leap between furniture but woefully miscalibrate and bellyflop onto the floor; what's your problem? i meant to do that now i shall wash myself intently. Cats secretly make all the worlds muffins. Pretend you want to go out but then don't eat from</p>
+        <h1>Archie Masden-Paredes</h1>
+        <p>Hi my name is Archie! I am a Ragdoll kitten of 1 years old! I am a THICC BOI. You can't tell from this pic because it is from my younger years when I was quite smol. i am also a giant brat but i am so cute it's totally okay. Things I like? being a brat, zoomies, standing on mama, and pooping.</p>
         <div class="social-media-container">Social media</div>
       </div>
     </div>
