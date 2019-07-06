@@ -4,7 +4,7 @@
       <img src="/images/archie.jpg" />
       <div>
         <h1>Archie Masden-Paredes</h1>
-        <p>Hi my name is Archie! I am a Ragdoll kitten of 1 years old! I am a THICC BOI. You can't tell from this pic because it is from my younger years when I was quite smol. i am also a giant brat but i am so cute it's totally okay. Things I like? being a brat, zoomies, standing on mama, and pooping.</p>
+        <p>Hi my name is Archie! I am a Ragdoll kitten of 1 years old! I am a THICC BOI. You can't tell from this pic because it is from my younger years when I was quite smol. i am also a giant brat but i am so cute it's totally okay. Things I like? being a brat, zoomies, standing on mama, and pooping. And of course my job is making bread.</p>
         <div class="social-media-container">Social media</div>
       </div>
     </div>
